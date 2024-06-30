@@ -27,8 +27,8 @@
   width: 100%;
 }
 .section-x-padding {
-  padding-left: 2.24rem;
-  padding-right: 2.24rem;
+  padding-left: 1.2rem;
+  padding-right: 1.2rem;
 }
 
 @media screen and (min-width: 576px) {
@@ -44,14 +44,18 @@
   .title-position {
     bottom: 80px;
   }
+  .section-x-padding {
+    padding-left: 1.8rem;
+    padding-right: 1.8rem;
+  }
 }
 @media screen and (min-width: 768px) {
   .img-small {
     width: 540px;
   }
   .section-x-padding {
-    padding-left: 3.2rem;
-    padding-right: 3.2rem;
+    padding-left: 2.24rem;
+    padding-right: 2.24rem;
   }
 }
 @media screen and (min-width: 992px) {
@@ -67,6 +71,10 @@
   .p-width {
     width: 75%;
   }
+  .section-x-padding {
+    padding-left: 2.8rem;
+    padding-right: 2.8rem;
+  }
 }
 @media screen and (min-width: 1200px) {
   .img-small {
@@ -74,6 +82,10 @@
   }
   .title-position {
     bottom: 60px;
+  }
+  .section-x-padding {
+    padding-left: 3.2rem;
+    padding-right: 3.2rem;
   }
 }
 @media screen and (min-width: 1400px) {
