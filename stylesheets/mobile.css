@@ -23,6 +23,9 @@
   bottom: 30px;
   right: 0;
 }
+.p-width {
+  width: 100%;
+}
 
 @media screen and (min-width: 576px) {
   .img-small {
@@ -52,6 +55,9 @@
   }
   .title-position {
     bottom: 50px;
+  }
+  .p-width {
+    width: 75%;
   }
 }
 @media screen and (min-width: 1200px) {
