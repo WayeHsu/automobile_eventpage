@@ -26,6 +26,10 @@
 .p-width {
   width: 100%;
 }
+.section-x-padding {
+  padding-left: 2.24rem;
+  padding-right: 2.24rem;
+}
 
 @media screen and (min-width: 576px) {
   .img-small {
@@ -44,6 +48,10 @@
 @media screen and (min-width: 768px) {
   .img-small {
     width: 540px;
+  }
+  .section-x-padding {
+    padding-left: 3.2rem;
+    padding-right: 3.2rem;
   }
 }
 @media screen and (min-width: 992px) {
